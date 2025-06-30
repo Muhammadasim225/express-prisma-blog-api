@@ -69,7 +69,6 @@ npm install
 ### 3. ✅ **Environment Variables**
 
 ```markdown
-## ⚙️ Environment Setup
 
 Rename `.env.example` to `.env` and update it with your database credentials.
 
@@ -86,7 +85,6 @@ PORT=6000
 ### 4. ✅ **Database Setup (Prisma)**
 
 ```markdown
-## 🧩 Prisma & Database Setup
 
 Run the following commands to set up your database schema:
 
@@ -103,7 +101,6 @@ npx prisma generate
 ### 5. ✅ **Running the Server**
 
 ```markdown
-## ▶️ Running the Development Server
 
 ```bash
 npm run dev
