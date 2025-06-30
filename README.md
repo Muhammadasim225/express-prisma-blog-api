@@ -84,7 +84,6 @@ PORT=6000
 
 ### 4. ✅ **Database Setup (Prisma)**
 
-```markdown
 
 Run the following commands to set up your database schema:
 
@@ -100,7 +99,6 @@ npx prisma generate
 
 ### 5. ✅ **Running the Server**
 
-```markdown
 
 ```bash
 npm run dev
